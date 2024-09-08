@@ -1,16 +1,16 @@
 @font-face {
     font-family: 'Alilato';
-    src: url("/fonts/Alilato-ExtraLight.ttf");
+    src: url("fonts/Alilato-ExtraLight.ttf");
 }
 
 @font-face {
     font-family: 'VinkaDuscha';
-    src: url("/fonts/VinkaDuscha.ttf");
+    src: url("fonts/VinkaDuscha.ttf");
 }
 
 @font-face {
     font-family: 'Libertarian';
-    src: url("/fonts/Libertarian.ttf");
+    src: url("fonts/Libertarian.ttf");
 }
 
 ::selection {
