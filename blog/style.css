@@ -23,6 +23,11 @@ html {
     overflow-x: hidden;
 }
 
+a{
+    -webkit-tap-highlight-color: transparent;
+    outline: none;
+}
+
 body {
     margin: 0;
     font-family: 'Alilato';
