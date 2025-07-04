@@ -30,6 +30,12 @@ function Home2() {
                 <b className="purple"> Python, Java, Javascript </b>, and I love solving problems through technology.
               </i>
               <br />
+              <b className="purple">
+              Leetcode rating: 1895
+              <br/>
+              CodeChef rating: 1654 (3 star)
+              </b>
+              <br />
               <br />
               My core interest's include: &nbsp;
               <ul>
