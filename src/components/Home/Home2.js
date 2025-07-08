@@ -48,7 +48,7 @@ function Home2() {
                 <b className="purple">
                 Designing scalable systems
                 </b> using solid principles of 
-                <b className="purple">System Design</b>
+                <b className="purple"> System Design</b>
               </li>
               <li>
                 <b className="purple">
@@ -57,7 +57,7 @@ function Home2() {
               </li>
               <br />
               </ul>
-              I'm currently a <b className="purple"> mentor at Smart Interviews</b>, where I guide my juniors through the <b className="purple"> Data Structures and Algorithms (DSA) </b> mentorship program.
+              I'm currently a <b className="purple"> mentor at Smart Interviews.</b> In this mentorship program, I guide my juniors in <b className="purple"> Data Structures and Algorithms (DSA) </b>.
               <br />
               <br />
               Beyond building products and solving complex problems, I also have a strong passion for 
