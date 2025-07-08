@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.965ff89e.css",
-    "main.js": "/static/js/main.8eac421a.js",
+    "main.js": "/static/js/main.8da7e179.js",
     "static/js/787.5c0b2d12.chunk.js": "/static/js/787.5c0b2d12.chunk.js",
     "static/media/smalltalk.png": "/static/media/smalltalk.1c842830da02e89159c4.png",
-    "static/media/Aeshala_Sadha_Shiva.pdf": "/static/media/Aeshala_Sadha_Shiva.c202b0fdb1633e9167fd.pdf",
+    "static/media/Aeshala_Sadha_Shiva.pdf": "/static/media/Aeshala_Sadha_Shiva.df618b204eb965c16811.pdf",
     "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/vcemun.png": "/static/media/vcemun.5b87c2763fde1d1a1bcf.png",
     "static/media/myimage.jpg": "/static/media/myimage.61b899825eda12c49175.jpg",
@@ -13,11 +13,11 @@
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
     "main.965ff89e.css.map": "/static/css/main.965ff89e.css.map",
-    "main.8eac421a.js.map": "/static/js/main.8eac421a.js.map",
+    "main.8da7e179.js.map": "/static/js/main.8da7e179.js.map",
     "787.5c0b2d12.chunk.js.map": "/static/js/787.5c0b2d12.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.965ff89e.css",
-    "static/js/main.8eac421a.js"
+    "static/js/main.8da7e179.js"
   ]
 }
