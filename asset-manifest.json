@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.965ff89e.css",
-    "main.js": "/static/js/main.8da7e179.js",
+    "main.js": "/static/js/main.2e531520.js",
     "static/js/787.5c0b2d12.chunk.js": "/static/js/787.5c0b2d12.chunk.js",
     "static/media/smalltalk.png": "/static/media/smalltalk.1c842830da02e89159c4.png",
     "static/media/Aeshala_Sadha_Shiva.pdf": "/static/media/Aeshala_Sadha_Shiva.df618b204eb965c16811.pdf",
@@ -13,11 +13,11 @@
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
     "main.965ff89e.css.map": "/static/css/main.965ff89e.css.map",
-    "main.8da7e179.js.map": "/static/js/main.8da7e179.js.map",
+    "main.2e531520.js.map": "/static/js/main.2e531520.js.map",
     "787.5c0b2d12.chunk.js.map": "/static/js/787.5c0b2d12.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.965ff89e.css",
-    "static/js/main.8da7e179.js"
+    "static/js/main.2e531520.js"
   ]
 }
